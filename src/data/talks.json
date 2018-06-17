@@ -1,0 +1,128 @@
+[
+	{
+		"id": 1,
+		"title": "Litmus",
+		"conference_url":"https://litmus.com/webinars/whats-new-in-builder",
+		"date": "May 23, 2018",
+		"location": "Virtual",
+		"desc": "The Shady Web",
+		"cta": "https://litmus.com/blog/whats-new-litmus-builder-webinar-recording",
+		"cta_text": "Watch Recording",
+		"category": "Webinar"
+	}, 
+	{
+		"id": 2,
+		"title": "Email Innovation Summit",
+		"conference_url": "https://emailinnovationssummit.com/lasvegas/2018/",
+		"date": "May 16, 2018",
+		"location": "Las Vegas, NV",
+		"desc": "The Future of Email",
+		"cta": "",
+		"cta_text": "",
+		"category": "Conference"
+	}, 
+	{
+		"id": 3,
+		"title": "Marketing United",
+		"conference_url": "https://marketingunited.com/",
+		"date": "April 10, 2018",
+		"desc": "The Future of Email",
+		"location": "Nashville, TN",
+		"cta": "https://marketingunited.com/videos/future-of-email",
+		"cta_text": "Watch Recording",
+		"category": "Conference"
+	}, 
+	{
+		"id": 4,
+		"title": "Midwest Digital Marketing Conference",
+		"conference_url": "https://bestmarketingconference.com/",
+		"date": "March 27, 2018",
+		"desc": "The Future of Email",
+		"location": "St. Louis, MO",
+		"cta": "",
+		"cta_text": "",
+		"category": "Conference"
+	}, 
+	{
+		"id": 5,
+		"title": "IBM Think",
+		"conference_url": "https://www.ibm.com/blogs/events/event/think-2018/",
+		"date": "March 20, 2018",
+		"desc": "The Future of Email",
+		"location": "Las Vegas, NV",
+		"cta": "",
+		"category": "Conference"
+	},
+	{
+		"id": 6,
+		"title": "Front End PDX",
+		"conference_url":"https://www.meetup.com/Front-End-PDX/events/244695123/",
+		"date": "February 27, 2018",
+		"desc": "The Shady Web",
+		"location": "Portland, OR",
+		"cta": "https://slides.com/heidi_olsen/front-end-pdx#/",
+		"cta_text": "View Slides",
+		"category": "Meetup"
+	},
+	{
+		"id": 7,
+		"title": "CSSConf Budapest",
+		"conference_url":"http://cssconfbp.rocks/",
+		"date": "October 25, 2017",
+		"location": "Budapest, HU",
+		"desc": "The Shady Web",
+		"cta": "https://www.youtube.com/watch?v=1Q5Wmh8japA",
+		"cta_text": "Watch Recording",
+		"category": "Conference"
+	},
+	{
+		"id": 8,
+		"title": "Email on Acid",
+		"conference_url": "https://www.emailonacid.com/blog/article/eoa-news/webinar-recap-making-the-case-for-interactive-email-whats-possible-beautifu/",
+		"date": "October 3, 2017",
+		"location": "Virtual",
+		"cta": "https://vimeo.com/237405349",
+		"cta_text": "Watch Recording",
+		"category": "Webinar"
+	},
+	{
+		"id": 9,
+		"title": "RefreshPDX",
+		"conference_url": "http://rfrshpdx.org/css-is-your-brands-body-language/",
+		"date": "June 21, 2017",
+		"location": "Portand, OR",
+		"cta": "https://slides.com/heidi_olsen/the-shady-web",
+		"cta_text": "View Slides",
+		"category": "Meetup"
+	}, 
+	{
+		"id": 10,
+		"title": "role=drinks",
+		"conference_url":"https://www.roledrinks.com/in/amsterdam/2017-06-17.html",
+		"date": "June 17, 2017",
+		"location": "Amsterdam, NL",
+		"desc": "The Shady Web",
+		"cta": "https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible",
+		"cta_text": "View Slides",
+		"category": "Meetup"
+	}, 
+	{
+		"id": 11,
+		"title": "Marketing United",
+		"date": "April 20, 2017",
+		"desc": "The Future of Email",
+		"location": "Nashville, TN",
+		"cta": "",
+		"category": "Conference"
+	},
+	{
+		"id": 12,
+		"title": "AMA and IBM Marketing Cloud",
+		"conference_url":"https://www.ama.org/multimedia/Webcasts/Pages/mind-blowing-innovation-in-the-inbox-informed-by-audience-data-insights.aspx?tab=home",
+		"date": "May 5, 2016",
+		"location": "Virtual",
+		"cta": "",
+		"cta_text": "View Slides",
+		"category": "Webinar"
+	}
+]
