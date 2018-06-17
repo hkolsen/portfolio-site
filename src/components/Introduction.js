@@ -3,9 +3,9 @@ import React from 'react';
 class Introduction extends React.Component {
   render() {
     return (
-    	<div className="intro">
+    	<section>
     		Introduction
-    	</div>
+    	</section>
     );
   }
 }

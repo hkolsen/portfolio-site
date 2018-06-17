@@ -1,13 +1,13 @@
 import React from 'react';
 
-class Coding extends React.Component {
+class Interests extends React.Component {
   render() {
     return (
     	<section>
-    		Coding
+    		Interests
     	</section>
     );
   }
 }
 
-export default Coding;
+export default Interests;
