@@ -3,9 +3,11 @@
 	--plum: #3e184e;
 	--lilac:#a4a0c6 ;
 	--ice:#f3fafb;
+	--dust:#ced5df;
 	--teal:#2e97a9;
 	--azure:#2a496e;
 	--charcoal:#142E30;
+	--marigold:#F1C40F;
 }
 
 /* Fonts */
@@ -13,6 +15,7 @@
 body {
 	background: var(--ice);
 	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
 	margin: 0;
 	padding: 0;
 }

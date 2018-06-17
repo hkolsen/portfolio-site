@@ -1,0 +1,20 @@
+section.writing {
+	background: var(--teal);
+}
+
+section.writing h2 {
+	color: var(--ice);
+}
+
+section.writing ul {
+	list-style: none;
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 1em;
+}
+
+section.writing li {
+	background: var(--ice);
+	border: 10px solid var(--dust);
+	padding: 1em;
+}

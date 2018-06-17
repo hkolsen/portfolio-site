@@ -13,7 +13,7 @@ class App extends React.Component {
   render() {        
     return (
       <div>
-        <Header tagline="Portfolio Site" />
+        <Header />
         <Introduction />
         <Coding />
         <Speaking />

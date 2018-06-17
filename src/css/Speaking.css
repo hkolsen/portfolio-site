@@ -1,0 +1,18 @@
+section.speaking {
+	background: var(--plum);
+}
+
+section.speaking h2 {
+	color: var(--ice);
+}
+
+section.speaking ul {
+	list-style: none;
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+section.speaking li {
+	background: var(--ice);
+	padding: 1em;
+}

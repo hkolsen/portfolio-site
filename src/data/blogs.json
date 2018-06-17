@@ -2,15 +2,64 @@
 	{
 		"id": 1,
 		"title": "Using CSS Animations to Guide a Better Ecommerce Experience",
-		"date": "Apr 4, 2018",
+		"img": "",
 		"desc": "Guest blog for Shopify Partners",
-		"url": "https://www.shopify.com/partners/blog/css-animation"
+		"url": "https://www.shopify.com/partners/blog/css-animation",
+		"url_text": "Read on Shopify",
+		"tags": "Guest Blog, eCommerce, CSS Animations, UX"
 	}, 
 	{
 		"id": 2,
 		"title": "Budgeted Fun: How a Design System Can Facilitate Innovation",
-		"date": "May 25, 2017",
+		"img": "",
 		"desc": "Guest blog for quality assurance software Email on Acid about design systems for email campaigns.",
-		"url": "https://www.emailonacid.com/blog/article/email-development/budgeted-fun-how-a-design-system-can-facilitate-innovation/"
+		"url": "https://www.emailonacid.com/blog/article/email-development/budgeted-fun-how-a-design-system-can-facilitate-innovation/",
+		"url_text": "Read on Email on Acid",
+		"tags": "Guest Blog, Email, Design System"
+	},
+	{
+		"id": 3,
+		"title": "Automation to Innovation: Bringing the human touch to your email program",
+		"img": "",
+		"desc": "A hybrid approach that balances templates with one-off campaigns leads to sustainable, scalable email programs that work for internal brand and agency teams.",
+		"url": "http://eroi.com/automation-to-innovation-bringing-the-human-touch-to-your-email-program/",
+		"url_text": "Read on eROI",
+		"tags": "Automation, Email, Process"
+	},
+	{
+		"id": 4,
+		"title": "Data-Driven Innovation in Email",
+		"img": "",
+		"desc": "To support creative innovation in the inbox we rely on data to make smart choices that help us reach our goals to deliver a message to all subscribers.",
+		"url": "http://eroi.com/data-driven-innovation-in-email/",
+		"url_text": "Read on eROI",
+		"tags": "Email, Interactive Techniques, Data"
+	},
+	{
+		"id": 5,
+		"title": "Techniques for SVG Animation and Development",
+		"img": "",
+		"desc": "Learn SVG animation techniques including transforming an element on an x- and y-axis, blinking, hover states, clipping paths and scrolling backgrounds.",
+		"url": "http://eroi.com/techniques-for-svg-animation-and-development/",
+		"url_text": "Read on eROI",
+		"tags": "CSS Animation, SVG, How-To"
+	},
+	{
+		"id": 6,
+		"title": "CSS animated slideshow in email",
+		"img": "",
+		"desc": "Learn how to build a pure CSS animated slideshow in an email.",
+		"url": "http://eroi.com/pure-css-animated-slideshow-in-email/",
+		"url_text": "Read on eROI",
+		"tags": "CSS Animation, Email, How-To"
+	},
+	{
+		"id": 7,
+		"title": "Create your very own interactive quiz",
+		"img": "",
+		"desc": "Learn how to build an interactive quiz using PHP, MySQL, JS, AJAX, and a little bit of fun.",
+		"url": "http://eroi.com/create-your-very-own-interactive-quiz/",
+		"url_text": "Read on eROI",
+		"tags": "Interactive Quiz, PHP, MySQL, How-To"
 	}
 ]

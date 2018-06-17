@@ -5,3 +5,4 @@ import './css/style.css';
 import registerServiceWorker from './registerServiceWorker';
 
 render(<App />, document.querySelector('#main'));
+registerServiceWorker();

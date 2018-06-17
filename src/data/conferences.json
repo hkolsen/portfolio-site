@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "CSSConf Budapest",
+		"date": "October 19, 2017",
+		"desc": "The Shady Web",
+		"url": "#",
+		"category": "Conference"
+	}, 
+	{
+		"id": 2,
+		"title": "Email Innovation Summit",
+		"date": "April 20, 2018",
+		"desc": "The Future of Email",
+		"url": "#",
+		"category": "Conference"
+	}, 
+	{
+		"id": 3,
+		"title": "Marketing United",
+		"date": "April 20, 2018",
+		"desc": "The Future of Email",
+		"url": "#",
+		"category": "Conference"
+	}, 
+	{
+		"id": 4,
+		"title": "Midwest Digital Marketing Conference",
+		"date": "April 20, 2018",
+		"desc": "The Future of Email",
+		"url": "#",
+		"category": "Conference"
+	}, 
+	{
+		"id": 5,
+		"title": "IBM Think",
+		"date": "April 20, 2018",
+		"desc": "The Future of Email",
+		"url": "#",
+		"category": "Conference"
+	}, 
+	{
+		"id": 6,
+		"title": "Marketing United",
+		"date": "April 20, 2018",
+		"desc": "The Future of Email",
+		"url": "#",
+		"category": "Conference"
+	}
+]

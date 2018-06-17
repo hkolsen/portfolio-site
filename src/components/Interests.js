@@ -3,7 +3,7 @@ import React from 'react';
 class Interests extends React.Component {
   render() {
     return (
-    	<section>
+    	<section id="interests">
     		Interests
     	</section>
     );
