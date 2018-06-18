@@ -2,13 +2,17 @@
 :root {
 	--white: #ffffff;
 	--plum: #3e184e;
-	--lilac:#a4a0c6 ;
-	--ice:#f3fafb;
-	--dust:#ced5df;
-	--teal:#2e97a9;
-	--azure:#2a496e;
-	--charcoal:#142E30;
-	--marigold:#F1C40F;
+	--lilac: #a4a0c6 ;
+	--ice: #f3fafb;
+	--dust: #ced5df;
+	--teal: #2e97a9;
+	--azure: #2a496e;
+	--charcoal: #142E30;
+	--marigold: #F1C40F;
+	--spring_green: #62e6ac;
+	--peach: #ff8c5f;
+	--black: #000000;
+	--ash: #d2d2d2;
 }
 
 /* Fonts */

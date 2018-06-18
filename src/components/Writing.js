@@ -1,23 +1,25 @@
 import React from 'react';
 import blogs from '../data/blogs.json';
 import '../css/Writing.css';
- 
+
 class Writing extends React.Component {
   render() {
+    const blogGrid = blogs.map((blog) =>
+      <div key={blog.id} className="blog__boxx">
+        <span className="blog__tags">{blog.tags}</span>
+        <img src={blog.img} alt={blog.title} />
+        <div className="blog__content">
+          <h3>{blog.title}</h3>
+          <a className="blog__btn" href={blog.url} target="_blank">{blog.url_text}</a>
+        </div>
+      </div>
+    );
     return (
       <section className="writing" id="writing">
         <h2>Writing</h2>
-        <ul> 
-          { blogs.map(function(blogs){
-            return <li>
-              <p>{blogs.tags}</p>
-              <h3>{blogs.title}</h3>
-              <p>{blogs.desc}</p>
-              <p><a href="{blogs.url}" target="_blank">{blogs.url_text}</a></p>
-            </li>;
-            })
-          }
-        </ul>
+        <div className="blog__grid">
+          {blogGrid}
+        </div>
       </section>
     );
   }

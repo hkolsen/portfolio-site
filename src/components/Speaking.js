@@ -6,12 +6,12 @@ class Speaking extends React.Component {
   render() {
     const speakerGrid = talks.map((talk) =>
       <div key={talk.id} className="speaker__boxx">
-        <div class="border"></div>
-        <h4>{talk.category}</h4>
+        <div className="speaker__border"></div>
+        <span className="speaker__cat">{talk.category}</span>
+        <span className="speaker__location">{talk.location}</span>
         <h3><a href={talk.conference_url} target="_blank">{talk.title}</a></h3>
         <p>{talk.date}</p>
-        <p>{talk.location}</p>
-        {talk.cta ? <button href={talk.cta} target="_blank">{talk.cta_text}</button> : "" }
+        {talk.cta ? <a className="speaker__btn" href={talk.cta} target="_blank">{talk.cta_text}</a> : "" }
       </div>
     );
     return (

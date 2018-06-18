@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"title": "Using CSS Animations to Guide a Better Ecommerce Experience",
-		"img": "",
+		"img": "/images/blog__css-animations.svg",
 		"desc": "Guest blog for Shopify Partners",
 		"url": "https://www.shopify.com/partners/blog/css-animation",
 		"url_text": "Read on Shopify",
@@ -11,7 +11,7 @@
 	{
 		"id": 2,
 		"title": "Budgeted Fun: How a Design System Can Facilitate Innovation",
-		"img": "",
+		"img": "/images/blog__design-systems.svg",
 		"desc": "Guest blog for quality assurance software Email on Acid about design systems for email campaigns.",
 		"url": "https://www.emailonacid.com/blog/article/email-development/budgeted-fun-how-a-design-system-can-facilitate-innovation/",
 		"url_text": "Read on Email on Acid",
@@ -20,7 +20,7 @@
 	{
 		"id": 3,
 		"title": "Automation to Innovation: Bringing the human touch to your email program",
-		"img": "",
+		"img": "/images/blog__automation.svg",
 		"desc": "A hybrid approach that balances templates with one-off campaigns leads to sustainable, scalable email programs that work for internal brand and agency teams.",
 		"url": "http://eroi.com/automation-to-innovation-bringing-the-human-touch-to-your-email-program/",
 		"url_text": "Read on eROI",
