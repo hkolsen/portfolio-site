@@ -1,10 +1,11 @@
 import React from 'react';
+import '../css/Introduction.css';
 
 class Introduction extends React.Component {
   render() {
     return (
-    	<section id="about">
-    		Introduction
+    	<section className="intro" id="about">
+    		<h1>I love building systems.</h1>
     	</section>
     );
   }

@@ -1,22 +1,29 @@
 /* Colors */
 :root {
 	--white: #ffffff;
-	--plum: #3e184e;
-	--lilac: #a4a0c6 ;
-	--ice: #f3fafb;
+	--black: #000000;
+	--ice: #f7f8fb;
+	--violet: #8061E7;
+	--midnight: #221061;
 	--dust: #ced5df;
+	--ash: #dfe2ed;
+	--lime: #00f1cc;
+	--sky: #00c1ff;
+	--charcoal: #474f6f;
+
+
+	--lilac: #a4a0c6 ;
+
 	--teal: #2e97a9;
 	--azure: #2a496e;
 	--charcoal: #142E30;
 	--marigold: #F1C40F;
 	--spring_green: #62e6ac;
 	--peach: #ff8c5f;
-	--black: #000000;
-	--ash: #d2d2d2;
 }
 
 /* Fonts */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Tajawal');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:700,900');
 body {
 	background: var(--ice);
 	font-family: 'Open Sans', sans-serif;
@@ -25,12 +32,12 @@ body {
 	padding: 0;
 }
 
-h1, h2, h3, h4, h5 {
-	color: var(--charcoal);;
-	font-family: 'Tajawal', sans-serif;
+h1, h2, h3 {
+	font-family: 'Playfair Display', serif;
 }
 
-p {
+h4, h5, p {
+	color: var(--charcoal);;
 	font-family: 'Open Sans', sans-serif;
 }
 

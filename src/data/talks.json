@@ -9,49 +9,6 @@
 		"cta": "https://litmus.com/blog/whats-new-litmus-builder-webinar-recording",
 		"cta_text": "Watch Recording",
 		"category": "Webinar"
-	}, 
-	{
-		"id": 2,
-		"title": "Email Innovation Summit",
-		"conference_url": "https://emailinnovationssummit.com/lasvegas/2018/",
-		"date": "May 16, 2018",
-		"location": "Las Vegas, NV",
-		"desc": "The Future of Email",
-		"cta": "",
-		"cta_text": "",
-		"category": "Conference"
-	}, 
-	{
-		"id": 3,
-		"title": "Marketing United",
-		"conference_url": "https://marketingunited.com/",
-		"date": "April 10, 2018",
-		"desc": "The Future of Email",
-		"location": "Nashville, TN",
-		"cta": "https://marketingunited.com/videos/future-of-email",
-		"cta_text": "Watch Recording",
-		"category": "Conference"
-	}, 
-	{
-		"id": 4,
-		"title": "Midwest Digital Marketing Conference",
-		"conference_url": "https://bestmarketingconference.com/",
-		"date": "March 27, 2018",
-		"desc": "The Future of Email",
-		"location": "St. Louis, MO",
-		"cta": "",
-		"cta_text": "",
-		"category": "Conference"
-	}, 
-	{
-		"id": 5,
-		"title": "IBM Think",
-		"conference_url": "https://www.ibm.com/blogs/events/event/think-2018/",
-		"date": "March 20, 2018",
-		"desc": "The Future of Email",
-		"location": "Las Vegas, NV",
-		"cta": "",
-		"category": "Conference"
 	},
 	{
 		"id": 6,
@@ -63,17 +20,6 @@
 		"cta": "https://slides.com/heidi_olsen/front-end-pdx#/",
 		"cta_text": "View Slides",
 		"category": "Meetup"
-	},
-	{
-		"id": 7,
-		"title": "CSSConf Budapest",
-		"conference_url":"http://cssconfbp.rocks/",
-		"date": "October 25, 2017",
-		"location": "Budapest, HU",
-		"desc": "The Shady Web",
-		"cta": "https://www.youtube.com/watch?v=1Q5Wmh8japA",
-		"cta_text": "Watch Recording",
-		"category": "Conference"
 	},
 	{
 		"id": 8,
@@ -105,15 +51,6 @@
 		"cta": "https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible",
 		"cta_text": "View Slides",
 		"category": "Meetup"
-	}, 
-	{
-		"id": 11,
-		"title": "Marketing United",
-		"date": "April 20, 2017",
-		"desc": "The Future of Email",
-		"location": "Nashville, TN",
-		"cta": "",
-		"category": "Conference"
 	},
 	{
 		"id": 12,

@@ -1,11 +1,37 @@
 [
 	{
-		"id": 1,
-		"title": "Care Essentials",
-		"img": "/images/blog__css-animations.svg",
+		"id": 2,
+		"title": "Taco Bell Kinetic Emails",
+		"img": "/images/work__taco-bell.svg",		
 		"desc": "Guest blog for Shopify Partners",
 		"url": "https://www.shopify.com/partners/blog/css-animation",
 		"url_text": "Read on Shopify",
-		"tags": "Guest Blog, eCommerce, CSS Animations, UX"
+		"tags": "Scrolling Experience, CSS Animations, "
+	},
+	{
+		"id": 3,
+		"title": "Random Riff's Interactive Campaign",
+		"img": "/images/work__random-riffs.svg",		
+		"desc": "Guest blog for Shopify Partners",
+		"url": "https://www.shopify.com/partners/blog/css-animation",
+		"url_text": "Read on Shopify",
+		"tags": "API Integration, Triggered Email, Acquisition Campaign"
+	},
+	{
+		"id": 4,
+		"title": "Whole Foods Market Animated Ads",
+		"img": "/images/work__wfm_ad.svg",
+		"desc": "Guest blog for Shopify Partners",
+		"url": "https://www.shopify.com/partners/blog/css-animation",
+		"url_text": "Read on Shopify",
+		"tags": "CSS Animations"
+	},
+	{
+		"id": 5,
+		"title": "Fred Meyer Jewelers Interactive Quiz",
+		"desc": "Guest blog for Shopify Partners",
+		"url": "https://www.shopify.com/partners/blog/css-animation",
+		"url_text": "Read on Shopify",
+		"tags": "CSS Animations"
 	}
 ]

@@ -1,0 +1,11 @@
+section.intro {
+  position: relative;
+}
+
+.divider { 
+  background:url(/images/divider__intro.svg);
+  bottom: 0;
+  height: 10vw;
+  position: absolute;
+  width: 100%;
+}

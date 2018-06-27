@@ -6,8 +6,6 @@ import Coding from './Coding';
 import Speaking from './Speaking';
 import Writing from './Writing';
 import Interests from './Interests';
-import Patterns from './Patterns';
-
 
 class App extends React.Component {
   render() {        
@@ -19,7 +17,6 @@ class App extends React.Component {
         <Speaking />
         <Writing />
         <Interests />
-        <Patterns />
       </div>
     );
   }
